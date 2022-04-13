@@ -28,7 +28,7 @@ The current features are :
 
 ## Requirements
 
-* [Laravel 6,7](https://laravel.com/docs/installation)
+* [Laravel 6+](https://laravel.com/docs/installation)
 
 ## Installation
 
